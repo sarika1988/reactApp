@@ -1,5 +1,8 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+//const Mp3Recorder = new MicRecorder({ bitRate: 128 });
+
+
 
 module.exports = {
    entry: './main.js',
